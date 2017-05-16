@@ -1,6 +1,9 @@
 html, body {
     position: relative;
+    width: 100%;
+    max-width: 640px;
     height: 100%;
+    margin: 0 auto;
 }
 body {
     background: #eee;
