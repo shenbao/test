@@ -1,7 +1,6 @@
-# front-end-code
+# front-end-notes-code
 
-- [front-end-notes-code](./front-end-notes-code):[front-end-notes](https://github.com/ShenBao/front-end-notes) 对应的代码
-
+[front-end-notes](https://github.com/ShenBao/front-end-notes) 对应的代码
 
 ## More links
 

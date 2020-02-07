@@ -1,0 +1,84 @@
+html, body {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    height: 100%;
+    margin: 0 auto;
+}
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide {
+    font-size: 18px;
+    background: #fff;  
+    background: rgb(28, 190, 202);  
+    padding:25px 25px 10px 25px;       
+}
+
+.swiper-slide h4{
+    color: rgb(195, 182, 0)
+}
+
+.page-1 {
+    background: #fff;  
+}
+.page-1 img{
+    width: 100%;
+}
+.page-1 p{
+    text-indent:36px;
+}
+.page-1 .p-1{
+    margin-top: 50px;
+}
+.page-1 .p-2{
+    margin-top: 20px;
+}
+
+.page-2 li{
+   line-height: 40px;
+}
+.page-2 p{
+    margin-left: 18px;
+    text-indent:36px;
+}
+
+.page-3{
+    padding-top:15px;
+}
+.page-3 p{
+    font-size: 14px;
+}
+.page-3 li{
+    font-size: 13px;
+    /*line-height: 20px;*/
+}
+
+.page-4{
+    font-size: 16px;
+}
+.page-4 li{
+    margin-top:6px; 
+}
+.page-4 p{
+    margin-left:20px; 
+}
+
+
+.page-5 li{
+    padding-top: 10px;
+}
+
+.page-6 li{
+    padding-top: 15px;
+}
+
